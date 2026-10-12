@@ -118,7 +118,7 @@ ISO's guidance on its name and logo (https://www.iso.org/iso-name-and-logo.html)
 
 This specification cites standard numbers, edition years, the amendment reference, clause and control references, and short titles for identification only. It reproduces no requirement, control, or guidance text, and contains no ISO/IEC content. Catalogue metadata obtained from ISO Open Data is licensed by ISO under the ODC Attribution License (ODC-By) v1.0 and, if used, MUST carry ISO's attribution.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. That license applies only to original Proof Protocol material in this repository. It does not relicense external standards, regulations, criteria, frameworks, or trademarks.
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
@@ -132,7 +132,7 @@ ISO's public pages do not prescribe an acknowledgment line for citing standard n
 
 If ISO Open Data catalogue metadata is incorporated, ISO's suggested attribution applies verbatim: "This work is based on the iso_deliverables_metadata dataset from ISO Open Data" "licensed under ODC Attribution License (ODC-By) v1.0" (https://www.iso.org/open-data.html).
 
-Because only identifiers and short titles are cited, no ISO/IEC text is reproduced or relicensed under CC BY 4.0. Implementers who need requirement or control text MUST obtain it from ISO, IEC, or an authorized national body under their own license.
+Because only identifiers and short titles are cited, no ISO/IEC text is reproduced or reLicensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 11. Versioning
 
